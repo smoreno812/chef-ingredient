@@ -1,4 +1,4 @@
-name 'csg_chef_ingredient'
+name 'chef_ingredient'
 version '0.21.0'
 maintainer 'Chef Software, Inc.'
 maintainer_email 'cookbooks@chef.io'
