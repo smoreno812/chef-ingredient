@@ -4,7 +4,7 @@ metadata
 
 cookbook 'compat_resource', '>= 12.10'
 
-cookbook 'chef_services', git: 'https://github.com/smoreno812/chef_services.git'
+cookbook 'chef-services', git: 'https://github.com/smoreno812/chef-services.git'
 
 
 group :integration do
